@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tmCgyVSAr47gJ168LUJc-90" connectable="0" parent="tmCgyVSAr47gJ168LUJc-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="data_bus" vertex="1">
+        <mxCell id="tmCgyVSAr47gJ168LUJc-90" connectable="0" parent="tmCgyVSAr47gJ168LUJc-89" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="mem_data_bus" vertex="1">
           <mxGeometry relative="1" x="0.3271" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
